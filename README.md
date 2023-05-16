@@ -25,9 +25,5 @@ For react as frontend
 Install jest for testing on both frontend and backend
 
 
-# Answers
 
-1. I have 2 years experience with Node
-2. I have 3 years experience with React
-3. Victor Oyeniran
 
